@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mansi Deshmukh</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">I'm aspiring java developer with excellent problem-solving skill and a team player with positive attitude. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I'am interested in learning new technologies. I m skilled in Java, JavaScript, HTML, CSS, SQL and constantly developing my skills.</h3>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/240450067594851749/"> -->
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-deshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-deshmukh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansi-deshmukh" alt="mansi-deshmukh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/deshmukh_mansii" target="blank"><img src="https://img.shields.io/twitter/follow/deshmukh_mansii?logo=twitter&style=for-the-badge" alt="deshmukh_mansii" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Booth, SQL**
 
@@ -15,9 +11,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Mansi-Deshmukh](https://medium.com/@Mansi-Deshmukh)
 
-- 💬 Ask me about **Java, JavaScript**
+- 💬 Ask me about **Java, DSA, Algo JavaScript**
 
 - 📫 How to reach me **deshmukhmansi147@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gRGPY--iLNKflls24xzLRTAQ8Yfm7aIA/view?usp=sharing](https://drive.google.com/file/d/1gRGPY--iLNKflls24xzLRTAQ8Yfm7aIA/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deshmukh_mansii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deshmukh_mansii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mansi-deshmukh-343112180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-deshmukh-343112180/" height="30" width="40" /></a>
 <a href="https://medium.com/@mansi-deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansi-deshmukh" height="30" width="40" /></a>
 </p>
