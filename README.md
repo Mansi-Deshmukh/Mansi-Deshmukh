@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Booth, SQL**
 
-- 👨‍💻 All of my projects are available at [https://mansi-deshmukh.github.io/](https://mansi-deshmukh.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mansi-deshmukh.github.io/)
 
 - 📝 You can connect with me on Linkedin [mansi-deshmukh](https://www.linkedin.com/in/mansi-deshmukh-343112180/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deshmukhmansi147@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gRGPY--iLNKflls24xzLRTAQ8Yfm7aIA/view?usp=sharing](https://drive.google.com/file/d/1gRGPY--iLNKflls24xzLRTAQ8Yfm7aIA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gRGPY--iLNKflls24xzLRTAQ8Yfm7aIA/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
