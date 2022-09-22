@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mansi-deshmukh.github.io/](https://mansi-deshmukh.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@Mansi-Deshmukh](https://medium.com/@Mansi-Deshmukh)
+- 📝 You can connect with me on Linkedin [mansi-deshmukh](https://www.linkedin.com/in/mansi-deshmukh-343112180/)
 
 - 💬 Ask me about **Java, DSA, Algo JavaScript**
 
