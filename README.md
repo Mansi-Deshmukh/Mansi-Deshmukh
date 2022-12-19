@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[(https://github.com/Mansi-Deshmukh)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-deshmukh-343112180/" height="30" width="40" /></a>
+<a href="[(https://github.com/Mansi-Deshmukh)](https://github.com/Mansi-Deshmukh)](https://www.linkedin.com/in/mansi-deshmukh-343112180/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-deshmukh-343112180/" height="30" width="40" /></a>
 <a href="https://medium.com/@mansi-deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansi-deshmukh" height="30" width="40" /></a>
 </p>
 
